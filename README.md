@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @guiirod
-- 👀 I’m interested in pesting study
+- 👀 I’m interested in pentest study
 - 💞️ I’m looking to collaborate on Hackerone
 - 📫 How to reach me RoĐ#3919
